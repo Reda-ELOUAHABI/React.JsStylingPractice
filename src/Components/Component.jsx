@@ -1,5 +1,5 @@
 import react from "react";
-
+import "../../src/styles.css";
 function Component() {
   const style = {
     color: "",
